@@ -8,4 +8,4 @@ git remote -value
 查看本地仓库列表
 
 git remote rm [key]
-产出指定仓库地址nb
+产出指定仓库地址nb1145
