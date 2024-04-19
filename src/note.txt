@@ -1,2 +1,6 @@
 git init 
 本地目录初始化123
+
+git remote add [key] [value]
+给本地仓库添加中央仓库地址
+
